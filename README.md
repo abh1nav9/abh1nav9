@@ -1,5 +1,5 @@
 # 💫 Hi, my name is Abhinav Gautam
-🔭 I am an undergrad at Graphic Era Hill University pursuing B.Tech (CSE).<br>👯 I am passionate of creating scalable web apps for which I am a learner of MERN STACK development.<br>Reach me through :<br>LinkedIn : https://www.linkedin.com/in/iabhinavgautam/<br>Email : abhinavgautam092@gmail.com<br>Twitter : https://twitter.com/abhinavgautam__/
+🔭 I am an undergrad at Graphic Era Hill University pursuing B.Tech (CSE).<br>👯 I am passionate of creating scalable web apps for which I am a learner of MERN STACK development.
 
 
 ## 🌐 Socials:
