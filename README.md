@@ -8,7 +8,7 @@
 Check out my portfolio:
 
 <p align="center">
-  <a href="https://abhinavgautam.vercel.com" target="_blank">
+  <a href="https://abhinavgautam.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-brightgreen?style=for-the-badge" alt="Portfolio">
   </a>
 </p>
